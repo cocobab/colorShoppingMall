@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="selectedAlign"/>
+		<list key="findhistory">
+			<item value="selectedAlign"/>
+			<item value="totalMin"/>
+			<item value="totalLength"/>
+			<item value="goSearchList2"/>
+			<item value="hidden-selected-color"/>
+			<item value="fn:contains"/>
+			<item value="topTotalLength"/>
+			<item value="searchMagazineBycolor"/>
+			<item value="searchBycolor"/>
+			<item value="List&lt;SearchDTO&gt; searchBycolor(Map colorMap);"/>
+			<item value="topMax"/>
+			<item value="topMin"/>
+			<item value="totalMinMax"/>
+		</list>
+		<list key="replacehistory">
+			<item value="topMin"/>
+			<item value="topMIn"/>
+			<item value="top"/>
+			<item value="totalLength"/>
+			<item value="totalMax"/>
+			<item value="totalMin"/>
+			<item value="totalMinMax"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="2005"/>
+		<item key="DIALOG_Y_ORIGIN" value="830"/>
+		<item key="DIALOG_WIDTH" value="393"/>
+		<item key="DIALOG_HEIGHT" value="523"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>
